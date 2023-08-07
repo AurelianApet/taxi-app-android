@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "729205091208",
+    "firebase_url": "https://vtcpro-179219.firebaseio.com",
+    "project_id": "vtcpro-179219",
+    "storage_bucket": "vtcpro-179219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729205091208:android:6714a291edbbdf71",
+        "android_client_info": {
+          "package_name": "com.vtcpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729205091208-b9eb32bb8pc3dvjo18rd4f3k4mvkb00i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTBJtkIgdJ_8RNFjKSxTKUeoto8NkvhBE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

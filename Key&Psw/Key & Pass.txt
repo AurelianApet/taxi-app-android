@@ -1,0 +1,3 @@
+Key Store Password : deepak502
+Key alias : key0
+Key Password : deepak502
